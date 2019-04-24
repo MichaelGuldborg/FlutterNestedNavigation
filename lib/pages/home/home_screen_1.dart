@@ -12,7 +12,7 @@ class HomeScreen1State extends State<HomeScreen1> {
   Widget build(BuildContext context) {
     return Scaffold(
       body: Container(
-        color: Theme.of(context).backgroundColor.withGreen(200),
+        color: Color(0xFFa8e6cf),
         child: Center(
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,

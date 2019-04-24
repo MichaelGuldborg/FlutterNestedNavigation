@@ -5,7 +5,7 @@ This project is a demonstration and example of nested navigation which mimics th
 
 ## Preview
 
-![](screenshots/preview.gif)
+<img src="screenshots/preview.gif" style="max-width: 100%;height: 600px;">
 
 ## Further Reading
 

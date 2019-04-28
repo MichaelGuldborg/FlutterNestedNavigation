@@ -15,7 +15,7 @@ class HomeScreen2 extends StatelessWidget {
               RaisedButton(
                 child: Text("Back"),
                 onPressed: () {
-                  Navigator.of(context).pop();
+                  HomeWidgetState.of(context).onBackPress();
                 },
               ),
               RaisedButton(
